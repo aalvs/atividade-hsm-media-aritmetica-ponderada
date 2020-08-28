@@ -2,7 +2,7 @@
 <img src=".github/logo.png" width='250'>
 </div>
 
-## 🚀 Atividade 01
+## 🚀 Atividade
 
 A Next Level, uma moderna e conceituada universidade, necessita de um sistema de gestão acadêmico.
 
