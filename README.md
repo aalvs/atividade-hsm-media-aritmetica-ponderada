@@ -33,7 +33,7 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 - Concatenar string com dados de variaveis;
 - Arredondar valores e duminuir casas decimais utilizando a class DecimalFormat.
 
-# 💻 Tecnologias estudadas
+# 💻 Tecnologias
 
 <a href='https://www.oracle.com/java/technologies/'>Java</a>
 <br/>
@@ -48,4 +48,4 @@ Este é um projeto acadêmico. Seu principal objetivo é facilitar a avaliação
 
 ---
 
-O aprendizado é continuo 🚀 by [alvs](https://app.rocketseat.com.br/me/aalvs).
+O aprendizado é contínuo e o próximo nível nunca será o último 🚀 by [aalvs](https://app.rocketseat.com.br/me/aalvs).
