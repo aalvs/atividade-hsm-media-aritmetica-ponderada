@@ -44,6 +44,8 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 
 # 📝 Sobre o projeto
 
+- Curso Lógica de Programação Orientada a Objetos
+
 Este é um projeto acadêmico. Seu principal objetivo é facilitar a avaliação dos professores.
 
 ---
